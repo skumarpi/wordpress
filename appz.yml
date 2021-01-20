@@ -37,6 +37,7 @@ properties:
   MYSQL_USER: wordpress
   MYSQL_DATABASE: wordpress
   ADMIN_USER: wpadmin
+  APPZ_BASE_DOMAIN: appzprod.com
   ADMIN_EMAIL: skumar@ecloudcontrol.com
   SITE_TITLE: "Wordpress AppZ Workshop Demo"
   MYSQL_PASSWORD:
